@@ -10,6 +10,7 @@ _Based on [landa](https://github.com/rodowi/landa) a plain vanilla stack for lan
 ### Running
 
 ```
+➜  bundle install
 ➜  mongod &
 ➜  foreman run
 ```
