@@ -7,10 +7,15 @@ Yet another poll engine
 
 _Based on [landa](https://github.com/rodowi/landa) a plain vanilla stack for landing pages._
 
+### Dependencies
+```
+➜  gem install foreman
+➜  bundle install
+```
+
 ### Running
 
 ```
-➜  bundle install
 ➜  mongod &
 ➜  foreman run
 ```
